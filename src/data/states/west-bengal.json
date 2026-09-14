@@ -1,0 +1,11 @@
+{
+  "state":"West Bengal","capital":"Kolkata","languages":["Bengali","English","Hindi","Nepali"],
+  "traditionalDress":{"men":"Dhoti with panjabi or kurta is a classic Bengali traditional combination for men.","women":"Saree, especially the drape associated with Bengal; handloom traditions include Baluchari and Tant.","image":"/images/west-bengal/dress.svg"},
+  "festivals":[{"name":"Durga Puja","description":"West Bengal's largest festival, celebrated with elaborate pandals, artistic idols, music, food and community gatherings; Kolkata's festival was inscribed by UNESCO in 2021."},{"name":"Poila Boishakh","description":"The Bengali New Year, celebrated with new-year greetings, cultural programmes and festive foods."},{"name":"Kali Puja","description":"An important autumn festival in Bengal centred on the worship of Goddess Kali and illuminated neighbourhood celebrations."}],
+  "danceForms":["Chhau (Purulia tradition)","Gambhira-associated performance traditions","Folk dance traditions of Bengal"],
+  "music":["Baul music","Rabindra Sangeet","Nazrul Geeti","Bengali folk songs"],
+  "cuisine":["Machher jhol","Shorshe ilish","Luchi and alur dom","Rosogolla","Mishti doi"],
+  "artsCrafts":["Kantha embroidery","Baluchari weaving","Batik","Dokra metal craft","Terracotta craft"],
+  "folklore":"Bengal's folklore draws on village songs, Baul traditions, devotional narratives and literary storytelling. Figures and stories from Mangalkavya and later Bengali literature continue to shape popular cultural memory.",
+  "monuments":["Victoria Memorial","Hazarduari Palace","Bishnupur temples","Indian Museum","Kalighat Temple"]
+}

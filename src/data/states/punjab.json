@@ -1,0 +1,11 @@
+{
+  "state":"Punjab","capital":"Chandigarh","languages":["Punjabi","Hindi","English"],
+  "traditionalDress":{"men":"Kurta-pajama or kurta with a turban; the turban remains an important part of Punjabi Sikh identity and formal dress for many people.","women":"Salwar kameez, often paired with a dupatta; phulkari textiles are strongly associated with Punjab.","image":"/images/punjab/dress.svg"},
+  "festivals":[{"name":"Baisakhi","description":"A spring harvest festival with deep significance in Punjab, accompanied by fairs, music, dance and community gatherings."},{"name":"Lohri","description":"A winter festival centred on bonfires, seasonal foods, songs and community celebration."},{"name":"Gurpurab","description":"Sikh commemorative observances honouring the lives and teachings of the Gurus, often marked by prayers, processions and langar."}],
+  "danceForms":["Bhangra","Giddha","Gatka performance traditions"],
+  "music":["Punjabi folk music","Gurbani kirtan","Tumbi- and dhol-led folk performance"],
+  "cuisine":["Makki di roti and sarson da saag","Amritsari kulcha","Chole","Dal makhani","Lassi"],
+  "artsCrafts":["Phulkari embroidery","Punjabi jutti making","Pottery","Wood carving","Textile weaving"],
+  "folklore":"Punjabi oral culture is rich in qisse and sung narratives, alongside devotional poetry and seasonal folk songs. Stories of legendary lovers and folk heroes have long travelled through performance traditions.",
+  "monuments":["Golden Temple (Harmandir Sahib)","Jallianwala Bagh","Qila Mubarak, Patiala","Anandpur Sahib heritage sites","Sheesh Mahal, Patiala"]
+}

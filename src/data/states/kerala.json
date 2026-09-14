@@ -1,0 +1,11 @@
+{
+  "state":"Kerala","capital":"Thiruvananthapuram","languages":["Malayalam","English","Tamil"],
+  "traditionalDress":{"men":"Mundu, often worn with a shirt or traditional upper cloth.","women":"Kasavu saree or settu mundu, especially associated with festive occasions.","image":"/images/kerala/dress.svg"},
+  "festivals":[{"name":"Onam","description":"Kerala's major harvest festival, associated with pookalam floral designs, feasts, traditional games and cultural performances."},{"name":"Thrissur Pooram","description":"A celebrated temple festival known for ceremonial processions, decorated elephants, percussion ensembles and fireworks."},{"name":"Vishu","description":"A spring festival marked by the Vishukkani arrangement, family observances and festive food."}],
+  "danceForms":["Kathakali","Mohiniyattam","Theyyam","Thiruvathirakali"],
+  "music":["Carnatic music","Sopana Sangeetham","Chenda melam and temple percussion traditions"],
+  "cuisine":["Kerala sadya","Appam and stew","Puttu and kadala curry","Avial","Palada payasam"],
+  "artsCrafts":["Kasavu weaving","Coir crafts","Aranmula Kannadi metal mirror craft","Bell-metal craft","Mural painting traditions"],
+  "folklore":"Kerala's storytelling traditions are closely woven with temple arts, ritual performance and epic narratives. Kathakali adapts stories from Indian epics through stylised movement, music and expressive acting.",
+  "monuments":["Padmanabhaswamy Temple","Mattancherry Palace","Bekal Fort","Hill Palace Museum","Kuthiramalika Palace"]
+}
