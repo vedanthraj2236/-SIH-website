@@ -1,0 +1,11 @@
+{
+  "state":"Maharashtra","capital":"Mumbai","languages":["Marathi","Hindi","English"],
+  "traditionalDress":{"men":"Dhoti or traditional trousers with a kurta; the pheta is a regional ceremonial turban style.","women":"Nauvari saree and other Marathi saree drapes are associated with traditional and festive dress.","image":"/images/maharashtra/dress.svg"},
+  "festivals":[{"name":"Ganesh Chaturthi","description":"A major public and household festival in Maharashtra, celebrated with Ganesha images, prayer, music, community gatherings and immersion rituals."},{"name":"Gudi Padwa","description":"The Marathi New Year, marked by the raising of a gudi standard, festive foods and household observances."},{"name":"Makar Sankranti","description":"A harvest-season festival associated in Maharashtra with tilgul sweets and social greetings."}],
+  "danceForms":["Lavani","Koli dance","Lezim","Tamasha performance traditions"],
+  "music":["Lavani music","Natya Sangeet","Hindustani classical traditions"],
+  "cuisine":["Puran poli","Vada pav","Misal pav","Bharli vangi","Modak"],
+  "artsCrafts":["Paithani weaving","Warli painting","Kolhapuri leather craft","Sawantwadi woodcraft","Bidri craft traditions in the Marathwada cultural region"],
+  "folklore":"Maharashtra's folk storytelling and performance culture includes powada ballads, devotional abhang traditions and Tamasha, which blend music, poetry, dialogue and performance.",
+  "monuments":["Ajanta Caves","Ellora Caves","Gateway of India","Elephanta Caves","Raigad Fort"]
+}

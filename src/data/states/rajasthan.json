@@ -1,0 +1,11 @@
+{
+  "state":"Rajasthan","capital":"Jaipur","languages":["Hindi","Rajasthani varieties","Urdu","English"],
+  "traditionalDress":{"men":"Dhoti or kurta with a colourful safa or pagri turban; dress varies by community and region.","women":"Ghagra-choli with odhni is widely associated with traditional Rajasthani dress, alongside regional saree styles.","image":"/images/rajasthan/dress.svg"},
+  "festivals":[{"name":"Gangaur","description":"A widely observed festival honouring Gauri and associated with women, marriage, seasonal rituals and colourful processions."},{"name":"Teej","description":"A monsoon festival particularly associated with women, swings, songs, dress and devotional observances."},{"name":"Pushkar Fair","description":"A major annual fair known for livestock trading, pilgrimage, craft markets and cultural performances."}],
+  "danceForms":["Ghoomar","Kalbelia","Chari","Kachchi Ghodi"],
+  "music":["Rajasthani folk singing","Manganiyar and Langa musical traditions","Puppetry-associated music"],
+  "cuisine":["Dal baati churma","Gatte ki sabzi","Ker sangri","Lal maans","Pyaaz ki kachori"],
+  "artsCrafts":["Bandhani tie-dye","Blue pottery","Block printing","Puppetry","Kundan and meenakari jewellery"],
+  "folklore":"Rajasthan's folklore preserves ballads of local heroes, devotional figures and legendary romances. Oral singers, puppeteers and travelling performers have carried these stories across generations.",
+  "monuments":["Amber Fort","Chittorgarh Fort","Jaisalmer Fort","Hawa Mahal","Ranthambore Fort"]
+}

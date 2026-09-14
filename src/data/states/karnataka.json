@@ -1,0 +1,11 @@
+{
+  "state":"Karnataka","capital":"Bengaluru","languages":["Kannada","English","Tulu","Konkani","Kodava Takku"],
+  "traditionalDress":{"men":"Panache / traditional dhoti or panche, often paired with a kurta or jubba; the Mysuru peta is a distinctive ceremonial turban.","women":"Saree traditions include Mysore silk and regional handloom styles.","image":"/images/karnataka/dress.svg"},
+  "festivals":[{"name":"Mysuru Dasara","description":"A ten-day cultural celebration in Mysuru with palace illumination, music, dance, processions and the Jamboo Savari on Vijayadashami."},{"name":"Ugadi","description":"The Kannada New Year, marked by rituals, festive foods and the seasonal idea of a new beginning."},{"name":"Makar Sankranti","description":"A harvest festival celebrated across Karnataka with family gatherings and regional food traditions."}],
+  "danceForms":["Yakshagana","Dollu Kunitha","Veeragase","Bharatanatyam (practised in Karnataka as well as other southern regions)"],
+  "music":["Carnatic music","Haridasa devotional music","Yakshagana musical traditions"],
+  "cuisine":["Bisi bele bath","Ragi mudde","Mysuru pak","Neer dosa","Udupi-style dishes"],
+  "artsCrafts":["Mysore silk weaving","Mysuru inlay and painting traditions","Channapatna wooden toys","Sandalwood carving","Kasuti embroidery"],
+  "folklore":"Karnataka's oral traditions range from epic and devotional storytelling to village performance traditions such as Yakshagana, where music, dance, dialogue and elaborate costume come together.",
+  "monuments":["Hampi monuments","Mysore Palace","Chennakeshava Temple, Belur","Pattadakal monuments","Gol Gumbaz, Vijayapura"]
+}

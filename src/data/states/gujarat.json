@@ -1,0 +1,11 @@
+{
+  "state":"Gujarat","capital":"Gandhinagar","languages":["Gujarati","Hindi","English"],
+  "traditionalDress":{"men":"Kediyu or kurta with dhoti or churidar is common in traditional dress, especially during festivals.","women":"Chaniya choli or Gujarati saree drapes are prominent festive styles.","image":"/images/gujarat/dress.svg"},
+  "festivals":[{"name":"Navratri","description":"A nine-night celebration in which Garba and Dandiya Raas become major public cultural expressions across Gujarat."},{"name":"Uttarayan","description":"The January kite festival, celebrated with rooftop gatherings and distinctive Gujarati foods."},{"name":"Janmashtami","description":"A festival of Krishna celebrated in temples and communities across Gujarat, including Dwarka and the Saurashtra region."}],
+  "danceForms":["Garba","Dandiya Raas","Tippani"],
+  "music":["Gujarati folk music","Dayro storytelling and song traditions","Devotional bhajans"],
+  "cuisine":["Dhokla","Khandvi","Undhiyu","Thepla","Fafda-jalebi"],
+  "artsCrafts":["Patola weaving","Bandhani","Ajrakh printing in Kutch","Rogan painting","Kutchi embroidery"],
+  "folklore":"Gujarati oral traditions include devotional bhajans, folk theatre such as Bhavai, community storytelling and songs tied to pastoral, agricultural and devotional life.",
+  "monuments":["Rani ki Vav","Sun Temple, Modhera","Adalaj Stepwell","Champaner-Pavagadh Archaeological Park","Sidi Saiyyed Mosque"]
+}
