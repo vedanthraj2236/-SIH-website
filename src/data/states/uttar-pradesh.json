@@ -1,0 +1,11 @@
+{
+  "state":"Uttar Pradesh","capital":"Lucknow","languages":["Hindi","Urdu","Awadhi","Braj Bhasha","Bhojpuri"],
+  "traditionalDress":{"men":"Kurta-pajama, dhoti-kurta and sherwani are established traditional styles across different communities and occasions.","women":"Saree and salwar kameez are common; chikankari embroidery is strongly associated with Lucknow." ,"image":"/images/uttar-pradesh/dress.svg"},
+  "festivals":[{"name":"Holi","description":"A major spring festival widely celebrated in Uttar Pradesh, with strong cultural associations in the Braj region."},{"name":"Deepavali","description":"Festival of lights observed across the state; Ayodhya is known for large public celebrations and ceremonial illumination."},{"name":"Ram Navami","description":"A religious festival associated with the birth of Rama and especially important in the cultural landscape of Ayodhya."}],
+  "danceForms":["Kathak","Raslila traditions of Braj","Nautanki folk theatre"],
+  "music":["Hindustani classical music","Braj and Awadhi folk music","Qawwali and devotional traditions"],
+  "cuisine":["Awadhi biryani","Galouti kebab","Petha","Kachori-sabzi","Banarasi paan"],
+  "artsCrafts":["Lucknow chikankari","Banarasi silk weaving","Moradabad metalware","Bhadohi carpet weaving","Terracotta craft"],
+  "folklore":"Uttar Pradesh contains several major regional storytelling traditions, including Ramayana and Krishna narratives in Awadhi and Braj cultural settings. Nautanki and Ramlila carry stories through music, dialogue and performance.",
+  "monuments":["Taj Mahal","Agra Fort","Fatehpur Sikri","Sarnath monuments","Bara Imambara"]
+}

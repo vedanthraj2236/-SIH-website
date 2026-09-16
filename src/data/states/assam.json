@@ -1,0 +1,11 @@
+{
+  "state":"Assam","capital":"Dispur","languages":["Assamese","Bodo","Bengali","English"],
+  "traditionalDress":{"men":"Dhoti-kurta or regional woven textiles; a gamusa is an important Assamese textile and cultural symbol.","women":"Mekhela chador, often woven in muga, eri or pat silk depending on the textile tradition.","image":"/images/assam/dress.svg"},
+  "festivals":[{"name":"Bohag Bihu (Rongali Bihu)","description":"The spring and new-year festival, celebrated with Bihu songs, dance, feasting and community gatherings."},{"name":"Magh Bihu (Bhogali Bihu)","description":"A harvest festival associated with feasting, community fires and the end of the winter agricultural cycle."},{"name":"Kati Bihu (Kangali Bihu)","description":"A more austere observance associated with prayer and lamps during the crop-growing season."}],
+  "danceForms":["Sattriya","Bihu dance","Bagurumba"],
+  "music":["Borgeet","Bihu songs","Ojapali performance traditions"],
+  "cuisine":["Khar","Masor tenga","Pitha","Duck with sesame or regional preparations","Aloo pitika"],
+  "artsCrafts":["Muga silk weaving","Eri silk weaving","Assamese bell-metal craft","Bamboo and cane craft","Majuli mask-making"],
+  "folklore":"Assam's folklore encompasses riverine and agrarian life, Vaishnavite storytelling, Bihu songs and legends connected with the Brahmaputra valley and its diverse communities.",
+  "monuments":["Kamakhya Temple","Sivasagar Sivadol","Rang Ghar","Talatal Ghar","Majuli satras"]
+}

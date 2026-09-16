@@ -1,0 +1,11 @@
+{
+  "state":"Tamil Nadu","capital":"Chennai","languages":["Tamil","English"],
+  "traditionalDress":{"men":"Veshti, often with a shirt or traditional angavastram for formal or festive settings.","women":"Saree, with Kanchipuram silk sarees especially associated with ceremonial dress.","image":"/images/tamil-nadu/dress.svg"},
+  "festivals":[{"name":"Pongal","description":"A multi-day harvest festival centred on thanksgiving, decorated homes, new rice and the celebration of agrarian life."},{"name":"Tamil New Year (Puthandu)","description":"The Tamil calendar new year, observed with home rituals, festive meals and visits with family."},{"name":"Karthigai Deepam","description":"A festival of lights observed in Tamil Nadu, strongly associated with the hill shrine of Tiruvannamalai."}],
+  "danceForms":["Bharatanatyam","Karagattam","Kummi","Kavadi Attam"],
+  "music":["Carnatic music","Tamil folk music traditions","Nadaswaram and thavil performance traditions"],
+  "cuisine":["Sambar and rice","Idli and dosa","Pongal","Chettinad cuisine","Filter coffee"],
+  "artsCrafts":["Kanchipuram silk weaving","Tanjore painting","Bronze casting using the lost-wax tradition","Kolam","Madurai Sungudi textiles"],
+  "folklore":"Tamil cultural memory includes Sangam-era literary traditions, devotional bhakti poetry and village performance forms. Stories of deities, heroes and moral ideals continue through songs, dance and temple arts.",
+  "monuments":["Brihadisvara Temple, Thanjavur","Shore Temple, Mamallapuram","Meenakshi Amman Temple","Gangaikonda Cholapuram Temple","Airavatesvara Temple, Darasuram"]
+}
